@@ -1,0 +1,2 @@
+elgg_plugins-myfavicon
+======================
